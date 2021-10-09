@@ -1,0 +1,135 @@
+.navbar{
+    box-shadow: 1px 2px 6px rgb(141, 137, 137);
+}
+.searchbar{
+    margin-bottom: auto;
+    margin-top: auto;
+    height: 50px;
+    border-radius: 30px;
+    padding: 10px;
+    background-color:rgb(248, 248, 248) ;
+    
+    }
+    .search_icon{
+        color: black;
+    }
+    .search_input{
+    border:0;
+    outline: 0;
+    background:none;
+    width: 0;
+    line-height: 30px;
+    width: 500px;
+    }
+
+    .nav-link i{
+        font-size: large;
+        color: black;
+    }
+    .nav-link{
+        font-size: small;
+        color: black;
+    }
+    .nav-link:hover{
+        color: blueviolet;
+    }
+
+    header{
+        background-image: url("img\bg.png");
+        background-position: center;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+    }
+    
+
+
+
+
+/* part22222222222222222222222 */
+.title {
+    font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 1.5rem;
+}
+.top-kard img:hover {
+    transform: scale(1.05);
+    transition: transform 150ms cubic-bezier(0,0,.38,.9);
+}
+.k-name{
+  
+        font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+        font-weight: 700;
+        line-height: 1.2;
+     
+}
+.sub-title{
+    font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 1.1rem;
+}
+.featured-link{
+    text-decoration: underline;
+    font-weight: 700;
+    color: #5624d0;
+}
+.featured-link:hover{
+    color: #401b9c;
+}
+.student{
+    color: #6a6f73;
+    font-size:smaller;
+}
+.explore{
+    color: #1c1d1f;
+    font-size:smaller;
+    font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;        
+}
+
+.person-title{
+    font-family: SuisseWorks,Georgia,Times,times new roman,serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    /* font-size: 3.2rem; */
+    line-height: 1.25;
+    letter-spacing: -.05rem;
+}
+.title-details{
+    font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.2rem;
+
+}
+.per-bttn{
+    color: #1c1d1f;
+    font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    height: 55px;
+}
+.partners-title{
+        font-family: SuisseWorks,Georgia,Times,times new roman,serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+        font-weight: 700;
+        font-size: 1.7rem;
+        line-height: 1.35;
+        letter-spacing: -.02rem;
+   
+}
+.footer{
+    background-color: #1c1d1f;
+}
+.fo-link{
+    font-size: smaller;
+    text-decoration:#1c1d1f
+    
+}
+.fo-link:hover{
+    font-size: smaller;
+    text-decoration: underline;
+    
+}
