@@ -45,14 +45,28 @@
         display:block
     }
   
-    header img{
+    header {
         
-        background-image: url("img//bg.png");
+        background-image: url("E:\demo\img\bg2.png");
         background-position: center;
-        background-attachment: fixed;
+       
         background-repeat: no-repeat;
         background-size: cover;
+
     
+    }
+    header img{
+
+        position: absolute;
+        top:11%;
+        z-index:-1;
+        
+    
+    }
+    .hea{
+       width: 19rem;
+       background-color: white;
+       box-shadow: 1px 2px 6px rgb(141, 137, 137);
     }
     .hea h2{
         font-family: SuisseWorks,Georgia,Times,times new roman,serif,apple color emoji,segoe ui emoji,segoe ui symbol;
@@ -71,6 +85,10 @@
         font-size: 1rem;
         text-decoration:none;
     }
+    .modalCenter{
+        top: 20%;
+        transform: translateY(-50%);
+   }
 /* ..................................................... */
 .towLine-lg h2{
     max-width: 80rem;
